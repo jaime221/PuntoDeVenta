@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tGT3nsQOTH+wGI2kD9hV2/qcR4D+uEJ+dvZF+apwoJKh43u19uj8hZiK9zmH/B2UnqXB+PEP8C388/83K0yQSg==",
+  "dgSpecHash": "nft6yA9w119C8k2JNEQRBtE9NqofY5Tyu6n3Vj3WfnafXlJrBVRKpP96NOx6ijjZ5NkKBsRM2HInmUnkAozCbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jaime\\source\\repos\\PuntoDeVenta\\PuntoDeVenta.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Jaime\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Jaime\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Jaime\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\Jaime\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.11\\microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",
     "C:\\Users\\Jaime\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\Jaime\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Jaime\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
