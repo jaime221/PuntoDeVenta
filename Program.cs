@@ -26,6 +26,7 @@ builder.Services.AddDbContext<ApplicationDBContext>(o =>
 
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 builder.Services.AddScoped<ICategoriaCategoria,CategoriaProductoRepository>();
+builder.Services.AddScoped<IRol, RolRepository>();
 builder.Services.Configure<TokenSetting>(builder.Configuration.GetSection("¨TokenSetting"));
 builder.Services.AddAuthorization();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

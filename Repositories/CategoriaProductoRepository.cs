@@ -48,6 +48,10 @@ namespace PuntoDeVenta.Repositories
             return await Guardar();
         }
 
+        public Task<int> Crear(RolDTO rol)
+        {
+            throw new NotImplementedException();
+        }
 
         public async Task<int> Eliminar(int id)
         {
@@ -75,6 +79,21 @@ namespace PuntoDeVenta.Repositories
             entidad.Nombre = categoriasProductos.Nombre;
             _db.CategoriaProductos.Update(entidad);
             return await Guardar();
+        }
+
+        public Task<int> Modificar(int id, RolDTO roles)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<ICollection<RolDTO>> Roles()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<RolDTO> Roles(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }

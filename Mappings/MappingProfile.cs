@@ -8,8 +8,12 @@ namespace PuntoDeVenta.Mappings
     {
         public MappingProfile() {
             CreateMap<CategoriaProducto, CategoriaProductDTO>();
-
             CreateMap<CategoriaProductDTO, CategoriaProducto>();
+
+            CreateMap<Rol, RolDTO>();
+            CreateMap<RolDTO, Rol>();
+
+           
         }
     }
 }

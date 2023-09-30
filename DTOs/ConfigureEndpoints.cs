@@ -7,6 +7,7 @@ namespace PuntoDeVenta.DTOs
         public static void UseEndPoints(this WebApplication app)
         {
             CategoriaProductoEndpoints.Add(app);
+            RolEndpoints.Add(app);
         }
     }
 }
