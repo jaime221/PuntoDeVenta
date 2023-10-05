@@ -89,14 +89,12 @@ go
 create table Ventas(
 Id int identity(1,1) not null,
 ClienteId int not null,
-ProductoId int not null,
 EmpleadoId int not null,
+Total decimal(9,2) not null,
 Estado tinyint not null,
 primary key(Id),
 foreign key(ClienteId)
 references Clientes(Id),
-foreign key(ProductoId)
-references Productos(Id),
 foreign key(EmpleadoId)
 references Empleados(Id)
 );
@@ -105,8 +103,10 @@ create table DetalleVentas(
 Id int identity(1,1) not null,
 VentaId int not null,
 Cantidad int not null,
-Total decimal(9,2) not null,
+ProductoId int not null,
 Estado tinyint not null,
+foreign key(ProductoId)
+references Productos(Id),
 primary key (Id),
 foreign key (VentaId)
 references Ventas(Id)

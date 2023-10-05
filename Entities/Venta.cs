@@ -8,6 +8,7 @@ namespace PuntoDeVenta.Entities
     {
         [Key]
         public int Id { get; set; }
+        public decimal Total { get; set; }
         [ForeignKey(nameof(ProductoId))]
         public int ProductoId { get; set; }
         public Product Producto { get; set; }
@@ -15,8 +16,9 @@ namespace PuntoDeVenta.Entities
         [ForeignKey(nameof(ClienteId))]
         public int ClienteId { get; set; }
         public Cliente Cliente { get; set; }
-
         public byte Estado { get; set; }
+        public ICollection<DetalleVenta> DetalleVentas { get; set; }
+
     }
 }
 
