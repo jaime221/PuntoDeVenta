@@ -9,7 +9,7 @@ namespace PuntoDeVenta.Context
         public  DbSet<CategoriaProducto> CategoriaProductos { get; set;}
         public DbSet<Product> Productos { get; set; }
         public DbSet<Rol> Roles { get; set; }
-
+        public DbSet<Usuario> Usuarios { get; set; }
 
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options) : base(options) 
         { 

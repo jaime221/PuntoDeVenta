@@ -8,5 +8,7 @@
 
         public byte Estado { get; set; }
 
+        public ICollection<Rol> Roles { get; set; }
+
     }
 }
