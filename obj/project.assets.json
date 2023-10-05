@@ -3162,23 +3162,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wille\\.nuget\\packages\\": {},
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wille\\Source\\Repos\\jaime221\\PuntoDeVenta\\PuntoDeVenta.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\proyectoESFE\\PuntoDeVenta\\PuntoDeVenta.csproj",
       "projectName": "PuntoDeVenta",
-      "projectPath": "C:\\Users\\wille\\Source\\Repos\\jaime221\\PuntoDeVenta\\PuntoDeVenta.csproj",
-      "packagesPath": "C:\\Users\\wille\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wille\\Source\\Repos\\jaime221\\PuntoDeVenta\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\proyectoESFE\\PuntoDeVenta\\PuntoDeVenta.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\proyectoESFE\\PuntoDeVenta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\wille\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3187,6 +3187,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

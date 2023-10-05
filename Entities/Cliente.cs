@@ -15,6 +15,7 @@ namespace PuntoDeVenta.Entities
 
         public string Telefono { get; set; }
         public byte Estado { get; set; }
+        public string Correo { get; set; }
 
     }
 }

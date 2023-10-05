@@ -69,6 +69,7 @@ namespace PuntoDeVenta.Repositories
             entidad.Apellido = cliente.Apellido;
             entidad.DUI = cliente.DUI;
             entidad.Telefono = cliente.Telefono;
+            entidad.Correo = cliente.Correo;
             _db.Clientes.Update(entidad);
             return await Guardar();
         }

@@ -17,13 +17,20 @@ namespace PuntoDeVenta.Repositories
             _mapper = mapper;
         }
 
-        public async Task<RolDTO> Roles(int id)
-        {
-            var entidad = await _db.Roles.FindAsync(id);
-            var rol = _mapper.Map<Rol, RolDTO>(entidad);
-            return rol;
-        }
+  public async Task<RolDTO> Roles(int id)
+{
+    var entidad = await _db.Roles.FindAsync(id);
 
+    if (entidad != null && entidad.Estado == 1)
+    {
+        var rolDTO = _mapper.Map<Rol, RolDTO>(entidad);
+        return rolDTO;
+    }
+    else
+    {
+        return null;
+    }
+}
 
 
         public async Task<ICollection<RolDTO>> Roles()
