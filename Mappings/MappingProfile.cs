@@ -13,7 +13,14 @@ namespace PuntoDeVenta.Mappings
             CreateMap<Rol, RolDTO>();
             CreateMap<RolDTO, Rol>();
 
-           
+
+            CreateMap<Cliente, ClienteDTO>();
+            CreateMap<ClienteDTO, Cliente>();
+
+            CreateMap<Venta, VentaDTO>();
+            CreateMap<VentaDTO, Venta>();
+
+
         }
     }
 }

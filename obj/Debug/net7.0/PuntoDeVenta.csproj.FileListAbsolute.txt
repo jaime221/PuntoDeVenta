@@ -72,3 +72,10 @@ C:\Users\Jaime\source\repos\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.pdb
 C:\Users\Jaime\source\repos\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.genruntimeconfig.cache
 C:\Users\Jaime\source\repos\PuntoDeVenta\obj\Debug\net7.0\ref\PuntoDeVenta.dll
 C:\Users\Jaime\source\repos\PuntoDeVenta\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wille\Source\Repos\jaime221\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\wille\Source\Repos\jaime221\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\Source\Repos\jaime221\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\wille\Source\Repos\jaime221\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\wille\Source\Repos\jaime221\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\wille\Source\Repos\jaime221\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wille\Source\Repos\jaime221\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.MvcApplicationPartsAssemblyInfo.cache

@@ -8,6 +8,7 @@ namespace PuntoDeVenta.DTOs
         {
             CategoriaProductoEndpoints.Add(app);
             RolEndpoints.Add(app);
+            ClienteEndpoints.Add(app);
         }
     }
 }

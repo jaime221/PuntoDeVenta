@@ -11,6 +11,10 @@ namespace PuntoDeVenta.Context
         public DbSet<Rol> Roles { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
 
+        public DbSet<Venta> Ventas { get; set; }
+
+        public DbSet<Cliente> Clientes { get; set; }
+
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options) : base(options) 
         { 
         } 
