@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\proyectoESFE\\PuntoDeVenta\\PuntoDeVenta.csproj": {}
+    "D:\\wilal\\Documents\\esfe-project\\PuntoDeVenta\\PuntoDeVenta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\proyectoESFE\\PuntoDeVenta\\PuntoDeVenta.csproj": {
+    "D:\\wilal\\Documents\\esfe-project\\PuntoDeVenta\\PuntoDeVenta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\proyectoESFE\\PuntoDeVenta\\PuntoDeVenta.csproj",
+        "projectUniqueName": "D:\\wilal\\Documents\\esfe-project\\PuntoDeVenta\\PuntoDeVenta.csproj",
         "projectName": "PuntoDeVenta",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\proyectoESFE\\PuntoDeVenta\\PuntoDeVenta.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\proyectoESFE\\PuntoDeVenta\\obj\\",
+        "projectPath": "D:\\wilal\\Documents\\esfe-project\\PuntoDeVenta\\PuntoDeVenta.csproj",
+        "packagesPath": "C:\\Users\\wilal\\.nuget\\packages\\",
+        "outputPath": "D:\\wilal\\Documents\\esfe-project\\PuntoDeVenta\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\wilal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

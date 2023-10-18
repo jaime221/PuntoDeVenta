@@ -76,27 +76,22 @@ create table Usuarios(
 Id int identity(1,1) not null,
 RolId int not null,
 Correo varchar not null,
-Contraseña varchar(max) not null,
+Clave varchar(max) not null,
 Estado tinyint not null,
-EmpleadoId int not null,
 primary key(Id),
 foreign key(RolId)
 references Roles(id),
-foreign key(EmpleadoId)
-references Empleados(id)
 );
 go 
 create table Ventas(
 Id int identity(1,1) not null,
 ClienteId int not null,
-EmpleadoId int not null,
 Total decimal(9,2) not null,
 Estado tinyint not null,
 primary key(Id),
 foreign key(ClienteId)
 references Clientes(Id),
-foreign key(EmpleadoId)
-references Empleados(Id)
+
 );
 go
 create table DetalleVentas(
