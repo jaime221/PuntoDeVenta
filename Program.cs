@@ -28,7 +28,8 @@ builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 builder.Services.AddScoped<ICategoriaCategoria,CategoriaProductoRepository>();
 builder.Services.AddScoped<IRol, RolRepository>();
 builder.Services.AddScoped<ICliente, ClienteRepository>();
-builder.Services.Configure<TokenSetting>(builder.Configuration.GetSection("¨TokenSetting"));
+builder.Services.AddScoped<IUsuario, UsuarioRepository>();
+builder.Services.Configure<TokenSetting>(builder.Configuration.GetSection("TokenSetting"));
 builder.Services.AddAuthorization();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
@@ -60,3 +61,8 @@ app.UseHttpsRedirection();
 app.UseEndPoints();
 
 app.Run();
+
+public partial class Program
+{
+
+}

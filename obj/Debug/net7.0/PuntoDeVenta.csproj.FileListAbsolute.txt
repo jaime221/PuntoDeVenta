@@ -220,3 +220,157 @@ C:\Users\Lenovo\Desktop\proyectoESFE\PuntoDeVenta\obj\Debug\net7.0\refint\PuntoD
 C:\Users\Lenovo\Desktop\proyectoESFE\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.pdb
 C:\Users\Lenovo\Desktop\proyectoESFE\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\proyectoESFE\PuntoDeVenta\obj\Debug\net7.0\ref\PuntoDeVenta.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\appsettings.Development.json
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\appsettings.json
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.exe
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.deps.json
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.runtimeconfig.json
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.pdb
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\AutoMapper.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Azure.Core.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Azure.Identity.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\System.Memory.Data.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\xunit.abstractions.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\xunit.assert.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\xunit.core.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.csproj.AssemblyReference.cache
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.AssemblyInfoInputs.cache
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.AssemblyInfo.cs
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.csproj.CoreCompileInputs.cache
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.MvcApplicationPartsAssemblyInfo.cs
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.MvcApplicationPartsAssemblyInfo.cache
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\staticwebassets\msbuild.PuntoDeVenta.Microsoft.AspNetCore.StaticWebAssets.props
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\staticwebassets\msbuild.build.PuntoDeVenta.props
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PuntoDeVenta.props
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PuntoDeVenta.props
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\staticwebassets.pack.json
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\staticwebassets.build.json
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\staticwebassets.development.json
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\scopedcss\bundle\PuntoDeVenta.styles.css
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.csproj.CopyComplete
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\refint\PuntoDeVenta.dll
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.pdb
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.genruntimeconfig.cache
+D:\wilal\Documents\esfe-project\PuntoDeVenta\obj\Debug\net7.0\ref\PuntoDeVenta.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.csproj.AssemblyReference.cache
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.AssemblyInfoInputs.cache
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.AssemblyInfo.cs
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\refint\PuntoDeVenta.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.pdb
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\appsettings.json
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.exe
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.deps.json
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.runtimeconfig.json
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\PuntoDeVenta.pdb
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\xunit.core.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\staticwebassets\msbuild.PuntoDeVenta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\staticwebassets\msbuild.build.PuntoDeVenta.props
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PuntoDeVenta.props
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PuntoDeVenta.props
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\scopedcss\bundle\PuntoDeVenta.styles.css
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.csproj.CopyComplete
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\PuntoDeVenta.genruntimeconfig.cache
+C:\Users\Jaime\Desktop\Nueva carpeta\PuntoDeVenta\obj\Debug\net7.0\ref\PuntoDeVenta.dll

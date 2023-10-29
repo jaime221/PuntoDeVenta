@@ -20,6 +20,8 @@ namespace PuntoDeVenta.Mappings
             CreateMap<Venta, VentaDTO>();
             CreateMap<VentaDTO, Venta>();
 
+            CreateMap<Usuario, UsuarioDTO>();
+            CreateMap<UsuarioDTO, Usuario>();
 
         }
     }

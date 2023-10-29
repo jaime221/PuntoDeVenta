@@ -8,8 +8,8 @@ namespace PuntoDeVenta.Entities
     {
         [Key]
         public int Id { get; set; }
-        public string correo { get; set; }
-        public string clave { get; set; }
+        public string Correo { get; set; }
+        public string Clave { get; set; }
 
         [ForeignKey(nameof(Rol))]
         public int RolId { get; set; }

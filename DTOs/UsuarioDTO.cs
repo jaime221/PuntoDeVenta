@@ -4,8 +4,16 @@ namespace PuntoDeVenta.DTOs
 {
 	public class UsuarioDTO
 	{
-        public string correo { get; set; }
-        public string clave { get; set; }
+        public int Id { get; set; }
+        public string Correo { get; set; }
+        public string Clave { get; set; }
 
     }
+    public class UsuarioLogin
+    {
+        public string Correo { get; set; }
+        public string Clave { get; set; }
+
+    }
+
 }
